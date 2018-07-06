@@ -2,6 +2,7 @@
 - Markdown cheatsheets:
   - [Cheatsheet1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Cheatsheet2](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - **Bold**: Strong emphasis, aka bold, with double asterisks or underscores (with **asterisks** or __underscores__).
 
 - Markdown tutorials:
   - [tutorials](https://www.markdowntutorial.com)
