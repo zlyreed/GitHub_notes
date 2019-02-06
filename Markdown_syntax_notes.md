@@ -1,4 +1,5 @@
 ### About Markdown
+- Basic Syntax:  [HTML tags and Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - Markdown cheatsheets:
   - [Cheatsheet1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Cheatsheet2](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
