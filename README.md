@@ -9,3 +9,5 @@
   - "Follow" a respository that you are interested
     - You can "Star" the respository (dont have to watch, which will send you notifications about all the changes they make).
     
+  - [Getting started with Git and GitHub: the complete beginner’s guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6?source=emailShare-17a8687279ce-1552012849&_branch_match_id=458720192510997662&gi=68864c30dc2f)
+  
