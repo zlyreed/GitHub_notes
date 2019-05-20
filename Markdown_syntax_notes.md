@@ -5,7 +5,7 @@
   - [Cheatsheet2](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
   - **Bold**: Strong emphasis, aka bold, with double asterisks or underscores (with **asterisks** or __underscores__).
   - add picture: use "![pic name](/pics/pic_name.jpg)"; note: **no space** in picture file name.
-  
+  - when add a table, make sure hit "enter" twice to switch to a new line and add an empty line space!   
 
 - Markdown tutorials:
   - [tutorials](https://www.markdowntutorial.com)
