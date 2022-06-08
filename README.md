@@ -12,4 +12,9 @@
   - [Getting started with Git and GitHub: the complete beginner’s guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6?source=emailShare-17a8687279ce-1552012849&_branch_match_id=458720192510997662&gi=68864c30dc2f)
   
   - Websites for you (one) and your projects (unlimited) on [GitHub Pages](https://pages.github.com/)
+
+ - add a link to a pdf file 
+   - example: use "[Wu-2005_ISB recommendation](files/Wu_2005_ISB_ShoulderJoint.pdf)"; 
+   - add a folder to the pdf files
+   - make sure there is no space or '-' in the pdf file name
   
